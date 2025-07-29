@@ -1,11 +1,7 @@
-![Repo Size](https://img.shields.io/github/repo-size/AhmedAlSubhi99/your-repo-name)
-![Stars](https://img.shields.io/github/stars/AhmedAlSubhi99/your-repo-name?style=social)
-![Forks](https://img.shields.io/github/forks/AhmedAlSubhi99/your-repo-name?style=social)
-![Issues](https://img.shields.io/github/issues/AhmedAlSubhi99/your-repo-name)
-![Last Commit](https://img.shields.io/github/last-commit/AhmedAlSubhi99/your-repo-name)
-![License](https://img.shields.io/github/license/AhmedAlSubhi99/your-repo-name)
-![Contributors](https://img.shields.io/github/contributors/AhmedAlSubhi99/your-repo-name)
+### :technologist: GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedAlSubhi99&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAlSubhi99&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AhmedAlSubhi99&theme=tokyonight)
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/IDE-VisualStudio-purple?style=flat-square&logo=visual-studio)
+### :chart_with_upwards_trend: Visitors & Activity
+![Profile views](https://komarev.com/ghpvc/?username=AhmedAlSubhi99&color=brightgreen)
