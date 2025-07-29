@@ -1,16 +1,11 @@
-## Hi there 👋
+![Repo Size](https://img.shields.io/github/repo-size/AhmedAlSubhi99/your-repo-name)
+![Stars](https://img.shields.io/github/stars/AhmedAlSubhi99/your-repo-name?style=social)
+![Forks](https://img.shields.io/github/forks/AhmedAlSubhi99/your-repo-name?style=social)
+![Issues](https://img.shields.io/github/issues/AhmedAlSubhi99/your-repo-name)
+![Last Commit](https://img.shields.io/github/last-commit/AhmedAlSubhi99/your-repo-name)
+![License](https://img.shields.io/github/license/AhmedAlSubhi99/your-repo-name)
+![Contributors](https://img.shields.io/github/contributors/AhmedAlSubhi99/your-repo-name)
 
-<!--
-**AhmedAlSubhi99/AhmedAlSubhi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/IDE-VisualStudio-purple?style=flat-square&logo=visual-studio)
